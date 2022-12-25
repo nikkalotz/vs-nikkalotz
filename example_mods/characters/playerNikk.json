@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "altDown"
+		},
+		{
+			"offsets": [
+				-75,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "altUp"
+		},
+		{
+			"offsets": [
+				-110,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "altIdle"
+		},
+		{
+			"offsets": [
+				-132,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "altLeft"
+		},
+		{
+			"offsets": [
+				-17,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "altRight"
+		},
+		{
+			"offsets": [
+				6,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MDown"
+		},
+		{
+			"offsets": [
+				-81,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MUp"
+		},
+		{
+			"offsets": [
+				-132,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MLeft"
+		},
+		{
+			"offsets": [
+				-40,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nikk",
+	"position": [
+		0,
+		-80
+	],
+	"healthicon": "nikk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		26
+	],
+	"camera_position": [
+		70,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

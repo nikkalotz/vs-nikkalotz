@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "nikk",
+		"player1": "nkbf",
+		"player2": "coolerNikk",
+		"player3": null,
+		"events": [
+			[
+				59520,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nikk"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"coolerNikk"
+					]
+				]
+			],
+			[
+				103560,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nikk"
+					]
+				]
+			],
+			[
+				115080,
+				[
+					[
+						"Change Character",
+						"dad",
+						"coolerNikk"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speaker",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dark Fact"
+	}
+}

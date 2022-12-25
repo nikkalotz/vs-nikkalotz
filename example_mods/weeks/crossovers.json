@@ -1,0 +1,49 @@
+{
+	"storyName": "ow",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"devoid",
+			"allan",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"attack plan",
+			"duet",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"sarcasm",
+			"dave",
+			[
+				255,
+				135,
+				6
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

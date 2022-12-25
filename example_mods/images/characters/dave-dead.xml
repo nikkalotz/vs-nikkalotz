@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave-dead.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="die0000" x="5" y="5" width="334" height="583" frameX="-403" frameY="-224" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0001" x="349" y="5" width="804" height="807" frameX="-166" frameY="0" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0002" x="1163" y="5" width="1144" height="784" frameX="0" frameY="-23" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0003" x="2317" y="5" width="572" height="578" frameX="-285" frameY="-254" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0004" x="2899" y="5" width="578" height="599" frameX="-276" frameY="-246" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0005" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0006" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0007" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0008" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0009" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0010" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0011" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0012" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0013" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0014" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0015" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0016" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0017" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0018" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0019" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0020" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0021" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0022" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0023" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0024" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0025" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="die0026" x="3487" y="5" width="310" height="484" frameX="-403" frameY="-323" frameWidth="1144" frameHeight="845"/>
+	<SubTexture name="died0000" x="5" y="822" width="310" height="484"/>
+	<SubTexture name="revive0000" x="325" y="822" width="804" height="807"/>
+	<SubTexture name="revive0001" x="1139" y="822" width="764" height="788" frameX="-20" frameY="-19" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0002" x="1913" y="822" width="724" height="769" frameX="-40" frameY="-38" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0003" x="2647" y="822" width="683" height="751" frameX="-60" frameY="-56" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0004" x="3340" y="822" width="643" height="732" frameX="-80" frameY="-75" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0005" x="5" y="1639" width="604" height="713" frameX="-100" frameY="-94" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0006" x="619" y="1639" width="564" height="695" frameX="-121" frameY="-112" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0007" x="1193" y="1639" width="525" height="676" frameX="-141" frameY="-131" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0008" x="1728" y="1639" width="485" height="657" frameX="-162" frameY="-150" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0009" x="2223" y="1639" width="445" height="639" frameX="-183" frameY="-168" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0010" x="2678" y="1639" width="406" height="620" frameX="-203" frameY="-187" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0011" x="3094" y="1639" width="366" height="601" frameX="-224" frameY="-206" frameWidth="804" frameHeight="807"/>
+	<SubTexture name="revive0012" x="3470" y="1639" width="334" height="583" frameX="-237" frameY="-224" frameWidth="804" frameHeight="807"/>
+</TextureAtlas>

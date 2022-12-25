@@ -1,0 +1,50 @@
+{
+	"storyName": "vs nikk classikk edition",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "ognk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Squared",
+			"og",
+			[
+				255,
+				102,
+				0
+			]
+		],
+		[
+			"Rockin",
+			"og",
+			[
+				255,
+				102,
+				0
+			]
+		],
+		[
+			"Intel",
+			"og",
+			[
+				255,
+				102,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"oldnikkStory",
+		"oldbfStory",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "vs nikk - classikk edition"
+}

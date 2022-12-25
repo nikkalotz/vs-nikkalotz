@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				401,
+				-160
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-338
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				64,
+				40
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-180,
+				-152
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nikkblox",
+	"position": [
+		140,
+		-70
+	],
+	"healthicon": "nikkblox",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		111,
+		0
+	],
+	"camera_position": [
+		-220,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

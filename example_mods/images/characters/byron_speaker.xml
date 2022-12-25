@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="byron_speaker.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="byron instance 10000" x="0" y="0" width="310" height="138"/>
+	<SubTexture name="byron instance 10001" x="0" y="0" width="310" height="138"/>
+	<SubTexture name="byron instance 10002" x="330" y="0" width="273" height="130" frameX="-19" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10003" x="330" y="0" width="273" height="130" frameX="-19" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10004" x="623" y="0" width="265" height="130" frameX="-23" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10005" x="623" y="0" width="265" height="130" frameX="-23" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10006" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10007" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10008" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10009" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10010" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+	<SubTexture name="byron instance 10011" x="0" y="158" width="262" height="130" frameX="-25" frameY="-8" frameWidth="310" frameHeight="138"/>
+</TextureAtlas>

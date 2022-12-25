@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NKBF0000" x="5" y="5" width="348" height="651" frameX="0" frameY="-26" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0001" x="5" y="5" width="348" height="651" frameX="0" frameY="-26" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0002" x="373" y="5" width="345" height="656" frameX="-5" frameY="-21" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0003" x="373" y="5" width="345" height="656" frameX="-5" frameY="-21" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0004" x="738" y="5" width="345" height="666" frameX="-10" frameY="-11" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0005" x="738" y="5" width="345" height="666" frameX="-10" frameY="-11" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0006" x="1103" y="5" width="345" height="672" frameX="-13" frameY="-5" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0007" x="1103" y="5" width="345" height="672" frameX="-13" frameY="-5" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0008" x="1468" y="5" width="345" height="676" frameX="-15" frameY="-1" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0009" x="1468" y="5" width="345" height="676" frameX="-15" frameY="-1" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0010" x="5" y="701" width="346" height="677" frameX="-15" frameY="0" frameWidth="361" frameHeight="677"/>
+	<SubTexture name="NKBF0011" x="5" y="701" width="346" height="677" frameX="-15" frameY="0" frameWidth="361" frameHeight="677"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-165
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "altDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "altLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				-137
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "altRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-135
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "altUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-125
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "altIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-137
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "beanDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-126
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "beanLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-125
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "beanRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-121
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "beanUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nikk",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "nikk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		6
+	],
+	"camera_position": [
+		60,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

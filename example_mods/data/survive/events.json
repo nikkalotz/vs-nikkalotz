@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "nikk",
+		"player1": "nkbf",
+		"player2": "nikk",
+		"player3": null,
+		"events": [
+			[
+				118588.235294117,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"2"
+					]
+				]
+			],
+			[
+				129882.352941176,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speaker",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Survive"
+	}
+}

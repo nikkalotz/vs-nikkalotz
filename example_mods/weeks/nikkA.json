@@ -1,0 +1,50 @@
+{
+	"storyName": "vs nikk",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "nk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Survive",
+			"nikk",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"Dark Fact",
+			"nikk",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"Likelyhood",
+			"nikk",
+			[
+				255,
+				135,
+				6
+			]
+		]
+	],
+	"weekCharacters": [
+		"nikkStory",
+		"bfStory",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "vs nikk - beanie breakdown"
+}

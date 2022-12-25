@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="collabOld.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Old Down0000" x="10" y="10" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0001" x="10" y="10" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0002" x="980" y="10" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0003" x="980" y="10" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0004" x="1950" y="10" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0005" x="1950" y="10" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0006" x="2920" y="10" width="960" height="542"/>
+	<SubTexture name="Old Down0007" x="2920" y="10" width="960" height="542"/>
+	<SubTexture name="Old Down0008" x="10" y="562" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0009" x="10" y="562" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0010" x="10" y="562" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Down0011" x="10" y="562" width="960" height="541" frameX="0" frameY="0" frameWidth="960" frameHeight="542"/>
+	<SubTexture name="Old Idle0000" x="980" y="562" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Idle0001" x="980" y="562" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Idle0002" x="1950" y="562" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Idle0003" x="1950" y="562" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Idle0004" x="2920" y="562" width="960" height="541"/>
+	<SubTexture name="Old Idle0005" x="2920" y="562" width="960" height="541"/>
+	<SubTexture name="Old Idle0006" x="10" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Idle0007" x="10" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Idle0008" x="980" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Idle0009" x="980" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Idle0010" x="980" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Idle0011" x="980" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Left0000" x="1950" y="1113" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Left0001" x="1950" y="1113" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="541"/>
+	<SubTexture name="Old Left0002" x="2920" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Left0003" x="2920" y="1113" width="960" height="541"/>
+	<SubTexture name="Old Left0004" x="10" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0005" x="10" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0006" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0007" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0008" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0009" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0010" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Left0011" x="980" y="1664" width="960" height="541"/>
+	<SubTexture name="Old Right0000" x="1950" y="1664" width="960" height="547"/>
+	<SubTexture name="Old Right0001" x="1950" y="1664" width="960" height="547"/>
+	<SubTexture name="Old Right0002" x="2920" y="1664" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0003" x="2920" y="1664" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0004" x="10" y="2221" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0005" x="10" y="2221" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0006" x="980" y="2221" width="960" height="544" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0007" x="980" y="2221" width="960" height="544" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0008" x="1950" y="2221" width="960" height="543" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0009" x="1950" y="2221" width="960" height="543" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0010" x="1950" y="2221" width="960" height="543" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Right0011" x="1950" y="2221" width="960" height="543" frameX="0" frameY="0" frameWidth="960" frameHeight="547"/>
+	<SubTexture name="Old Up0000" x="2920" y="2221" width="960" height="542"/>
+	<SubTexture name="Old Up0001" x="2920" y="2221" width="960" height="542"/>
+	<SubTexture name="Old Up0002" x="10" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0003" x="10" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0004" x="980" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0005" x="980" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0006" x="1950" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0007" x="1950" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0008" x="2920" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0009" x="2920" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0010" x="2920" y="2775" width="960" height="542"/>
+	<SubTexture name="Old Up0011" x="2920" y="2775" width="960" height="542"/>
+</TextureAtlas>

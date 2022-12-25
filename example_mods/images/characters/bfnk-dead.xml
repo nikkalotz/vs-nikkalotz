@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfnk-dead.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirmDying0000" x="5" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0001" x="489" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0002" x="489" y="5" width="464" height="679" frameX="0" frameY="0" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0003" x="973" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0004" x="1457" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0005" x="1457" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0006" x="1941" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0007" x="2425" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0008" x="2909" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0009" x="3393" y="5" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0010" x="5" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0011" x="489" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0012" x="973" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0013" x="1457" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0014" x="1941" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0015" x="2425" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0016" x="2425" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0017" x="2909" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0018" x="2909" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0019" x="3393" y="704" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="703"/>
+	<SubTexture name="confirmDying0020" x="2425" y="2801" width="464" height="679" frameX="0" frameY="-24" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="confirmDying0021" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0022" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0023" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0024" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0025" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0026" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0027" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0028" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0029" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0030" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0031" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0032" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0033" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="confirmDying0034" x="973" y="1403" width="464" height="679" frameX="0" frameY="-24" frameWidth="464" frameHeight="679"/>
+	<SubTexture name="dyingLoop0000" x="2425" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="dyingLoop0001" x="5" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0002" x="5" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0003" x="489" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0004" x="489" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0005" x="973" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0006" x="973" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0007" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0008" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0009" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0010" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0011" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0012" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0013" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0014" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0015" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="dyingLoop0016" x="1457" y="1403" width="464" height="679"/>
+	<SubTexture name="startDying0000" x="1941" y="1403" width="383" height="674" frameX="-108" frameY="-5" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0001" x="2344" y="1403" width="375" height="674" frameX="-108" frameY="-5" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0002" x="2739" y="1403" width="368" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0003" x="3127" y="1403" width="368" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0004" x="3127" y="1403" width="368" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0005" x="3515" y="1403" width="373" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0006" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0007" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0008" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0009" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0010" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0011" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0012" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0013" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0014" x="5" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0015" x="374" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0016" x="374" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0017" x="374" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0018" x="743" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0019" x="743" y="2102" width="349" height="679" frameX="-115" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0020" x="1112" y="2102" width="353" height="679" frameX="-111" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0021" x="1112" y="2102" width="353" height="679" frameX="-111" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0022" x="1485" y="2102" width="357" height="679" frameX="-107" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0023" x="1485" y="2102" width="357" height="679" frameX="-107" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0024" x="1862" y="2102" width="364" height="679" frameX="-100" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0025" x="2246" y="2102" width="460" height="679" frameX="-4" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0026" x="2246" y="2102" width="460" height="679" frameX="-4" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0027" x="2726" y="2102" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0028" x="2726" y="2102" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0029" x="3210" y="2102" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0030" x="3210" y="2102" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0031" x="5" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0032" x="5" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0033" x="5" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0034" x="5" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0035" x="2726" y="2102" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0036" x="5" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0037" x="489" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0038" x="489" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0039" x="489" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0040" x="973" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0041" x="973" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0042" x="973" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0043" x="973" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0044" x="1457" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0045" x="1457" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0046" x="1457" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0047" x="1457" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0048" x="1457" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0049" x="1941" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0050" x="1941" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0051" x="1941" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0052" x="1941" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0053" x="1941" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0054" x="2425" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0055" x="2425" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0056" x="2425" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+	<SubTexture name="startDying0057" x="2425" y="2801" width="464" height="679" frameX="0" frameY="0" frameWidth="491" frameHeight="679"/>
+</TextureAtlas>

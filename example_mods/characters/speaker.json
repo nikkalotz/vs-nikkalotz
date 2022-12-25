@@ -1,0 +1,46 @@
+{
+	"animations": [
+	
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "byron",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "byron"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/byron_speaker",
+	"position": [
+		270,
+		440
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		117
+	],
+	"camera_position": [
+		-80,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

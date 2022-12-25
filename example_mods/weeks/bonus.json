@@ -1,0 +1,67 @@
+{
+	"storyName": "ow",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Disruptive",
+			"nikkblox",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"technotris",
+			"plushie",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"finale",
+			"nikk",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"reviewer",
+			"reviewer",
+			[
+				255,
+				135,
+				6
+			]
+		],
+		[
+			"collab",
+			"reviewer2",
+			[
+				255,
+				135,
+				6
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

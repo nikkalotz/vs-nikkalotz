@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-125
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gameOver",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				-567
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "gameNotover"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadNikk",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "nikk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		6
+	],
+	"camera_position": [
+		70,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

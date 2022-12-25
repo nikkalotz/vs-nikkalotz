@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "pn idle",
+	"position": [
+		70,
+		149
+	],
+	"scale": 0.55,
+	"image": "oldnikk",
+	"flipX": false
+}
